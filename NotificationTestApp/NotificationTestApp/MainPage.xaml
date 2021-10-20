@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NotificationTestApp.MainPage">
+
+    <Grid Margin="10,20,10,20" BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button CornerRadius="10" Grid.Row="1" VerticalOptions="End" HorizontalOptions="Center" Text="Make Noftif" Clicked="Button_Clicked"/>
+    </Grid>
+
+</ContentPage>

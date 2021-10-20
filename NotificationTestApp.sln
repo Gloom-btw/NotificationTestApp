@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationTestApp.Android", "NotificationTestApp\NotificationTestApp.Android\NotificationTestApp.Android.csproj", "{14D83AF3-04AA-4F7A-9886-8088EA3BE802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationTestApp", "NotificationTestApp\NotificationTestApp\NotificationTestApp.csproj", "{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D83AF3-04AA-4F7A-9886-8088EA3BE802}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ACE7B7-7E24-4CD0-B5CF-E19F4AB13B79}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B46849C-B729-4473-A6A5-178BC44A131C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\bin\Debug\netstandard2.0\NotificationTestApp.deps.json
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\bin\Debug\netstandard2.0\NotificationTestApp.dll
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\bin\Debug\netstandard2.0\ref\NotificationTestApp.dll
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\bin\Debug\netstandard2.0\NotificationTestApp.pdb
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.csproj.AssemblyReference.cache
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.AssemblyInfoInputs.cache
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.AssemblyInfo.cs
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.dll
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\ref\NotificationTestApp.dll
+C:\Users\Dusti\source\repos\NotificationTestApp\NotificationTestApp\NotificationTestApp\obj\Debug\netstandard2.0\NotificationTestApp.pdb
